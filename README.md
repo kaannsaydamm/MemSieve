@@ -69,4 +69,4 @@ python3 memsieve.py --target ./tests/mem_vault --input sample.txt
 Bu araç yalnızca eğitim, araştırma ve yetkili güvenlik testleri amacıyla geliştirilmiştir. Yazar, bu aracın yetkisiz sistemlerde kötü niyetli kullanımından doğacak hiçbir sorumluluğu kabul etmez.
 
 ---
-Made by Kaan Saydam, 2025.
+Made by Kaan Saydam, 2026.
