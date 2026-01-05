@@ -1,0 +1,9 @@
+build/
+__pycache__/
+*.pyc
+crashes/
+tests/vulnerable_app
+tests/mem_vault
+venv/
+.env
+.DS_Store
