@@ -5,6 +5,9 @@ MemSieve, Linux tabanlı ELF binary dosyaları üzerinde bellek bozulma (memory 
 
 Standart fuzzer'ların aksine, MemSieve sadece "çökme" (crash) yakalamaz; hedef sürecin (process) bellek alanına ptrace sistem çağrıları ile doğrudan müdahale ederek (instrumentation), çökme anındaki yazmaç (register) durumlarını ve exploit potansiyelini analiz eder.
 
+<img width="1920" height="1080" alt="resim" src="https://github.com/user-attachments/assets/b13f512f-8884-447c-8924-6d809fc4da6b" />
+
+
 🚀 Özellikler
 
 - **Ptrace Tabanlı Instrumentation**: Hedef süreci ptrace API'si ile takip eder, sinyalleri (SIGSEGV, SIGABRT) yakalar.
