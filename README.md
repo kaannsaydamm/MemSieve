@@ -1,5 +1,5 @@
 MemSieve: Automated Memory Corruption Fuzzer & Crash Analyzer
-💀 Proje Hakkında
+
 
 MemSieve, Linux tabanlı ELF binary dosyaları üzerinde bellek bozulma (memory corruption) zafiyetlerini tespit etmek, analiz etmek ve sömürü (exploit) geliştirme sürecini hızlandırmak için tasarlanmış hibrit bir Fuzzing ve Dinamik Analiz motorudur.
 
